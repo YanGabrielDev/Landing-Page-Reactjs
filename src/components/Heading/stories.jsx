@@ -1,0 +1,29 @@
+import { Heading } from ".";
+
+export default {
+  titile: "Heading",
+  component: Heading,
+  args: {
+    children: "uepa",
+  },
+  argTypes: {
+    children: { type: "string" },
+  },
+  parameters: {
+    backgrounds: {
+      default: "dark",
+    },
+  },
+};
+
+export const Light = (args) => <Heading {...args} />;
+export const Dark = (args) => <Heading {...args} />;
+Light.parameters = {
+  backgrounds: {
+    default: "light",
+  },
+};
+Dark.args = {
+  children: "O exto está claro",
+  colorDark: false,
+};
