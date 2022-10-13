@@ -13,7 +13,11 @@ export default {
 
 export const Template = (args) => {
   return (
-    <div>
+    <div
+      style={{
+        display: "flex",
+      }}
+    >
       <MenuLink {...args} />
     </div>
   );
