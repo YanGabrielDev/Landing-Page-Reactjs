@@ -1,5 +1,6 @@
 import React from "react";
 import { Heading } from "../../components/Heading";
+import { MenuLink } from "../../components/MenuLink";
 import * as Styled from "./styles";
 function Home() {
   return (

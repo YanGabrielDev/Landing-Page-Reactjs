@@ -4,6 +4,6 @@ import P from "prop-types";
 export const TextComponent = ({ children }) => {
   return <Styled.Container>{children}</Styled.Container>;
 };
-TextComponent.prototype = {
+TextComponent.proptype = {
   children: P.node.isRequired,
 };
