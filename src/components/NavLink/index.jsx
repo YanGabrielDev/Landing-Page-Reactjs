@@ -16,7 +16,7 @@ NavLink.propTypes = {
   links: P.arrayOf(
     P.shape({
       children: P.string.isRequired,
-      link: P.string.isRequired,
+      link: P.string,
       newTab: P.bool,
     })
   ).isRequired,
