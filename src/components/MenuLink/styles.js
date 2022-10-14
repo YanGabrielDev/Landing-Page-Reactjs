@@ -13,9 +13,9 @@ export const Container = styled.a`
       content: "";
       left: 50%;
       position: absolute;
-      bottom: 0;
+      bottom: 0.9rem;
       width: 0;
-      height: 0.2rem;
+      height: 0.3rem;
       background: ${theme.colors.secondaryBg};
       transition: all 300ms ease-in-out;
     }
