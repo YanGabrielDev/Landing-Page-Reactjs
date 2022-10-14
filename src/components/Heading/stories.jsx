@@ -1,7 +1,7 @@
 import { Heading } from ".";
 
 export default {
-  titile: "Heading",
+  title: "Heading",
   component: Heading,
   args: {
     children: "uepa",
