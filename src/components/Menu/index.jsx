@@ -3,7 +3,7 @@ import * as Styled from "./styles";
 import P from "prop-types";
 import { LogoLink } from "../LogoLink/index";
 import { NavLink } from "../NavLink/index";
-import { Menu as MenuIcon } from "@styled-icons/material-outlined";
+import { Menu as MenuIcon } from "@styled-icons/material-outlined/Menu";
 import { Close as CloseIcon } from "@styled-icons/material-outlined/Close";
 import { SectionContainer } from "../SectionContainer";
 export const Menu = ({ links = [], logoData }) => {
