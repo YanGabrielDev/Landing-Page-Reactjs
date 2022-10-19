@@ -32,7 +32,8 @@ export const Menu = ({ links = [], logoData }) => {
     </>
   );
 };
-Menu.prototype = {
+Menu.propTypes = {
   children: P.node.isRequired,
+  ...NavLink.propTypes,
   logoData: P.shape(LogoLink.propTypes).isRequired,
 };
