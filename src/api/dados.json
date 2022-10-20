@@ -1,0 +1,166 @@
+{
+    "data": [
+    {
+    "id": 1,
+    "attributes": {
+    "slug": "my-page",
+    "createdAt": "2022-10-04T11:34:58.450Z",
+    "updatedAt": "2022-10-05T11:28:35.654Z",
+    "publishedAt": "2022-10-05T10:55:24.001Z",
+    "footer_text": "Feito por Yan",
+    "menu": {
+    "id": 1,
+    "logo_link": "#LOGO",
+    "logo_text": "Logo",
+    "logo": {
+    "data": null
+    },
+    "menu_links": [
+    {
+    "id": 1,
+    "link_text": "grid-one",
+    "url": "gridOne",
+    "open_in_new_tab": false
+    }
+    ]
+    },
+    "sections": [
+    {
+    "id": 2,
+    "__component": "section.section-two-columns",
+    "title": "Página criada usando React",
+    "description": "Aplicando conhecimentos adquiridos estudando ReactJs",
+    "image": {
+    "data": {
+    "id": 3,
+    "attributes": {
+    "name": "dlf.pt-react-logo-png-5247422.png",
+    "alternativeText": "dlf.pt-react-logo-png-5247422.png",
+    "caption": "dlf.pt-react-logo-png-5247422.png",
+    "width": 806,
+    "height": 715,
+    "formats": {
+    "small": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/do3sejfqo/image/upload/v1664966293/small_dlf_pt_react_logo_png_5247422_7cd91d6d29.png",
+    "hash": "small_dlf_pt_react_logo_png_5247422_7cd91d6d29",
+    "mime": "image/png",
+    "name": "small_dlf.pt-react-logo-png-5247422.png",
+    "path": null,
+    "size": 81.64,
+    "width": 500,
+    "height": 444,
+    "provider_metadata": {
+    "public_id": "small_dlf_pt_react_logo_png_5247422_7cd91d6d29",
+    "resource_type": "image"
+    }
+    },
+    "medium": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/do3sejfqo/image/upload/v1664966293/medium_dlf_pt_react_logo_png_5247422_7cd91d6d29.png",
+    "hash": "medium_dlf_pt_react_logo_png_5247422_7cd91d6d29",
+    "mime": "image/png",
+    "name": "medium_dlf.pt-react-logo-png-5247422.png",
+    "path": null,
+    "size": 141.32,
+    "width": 750,
+    "height": 665,
+    "provider_metadata": {
+    "public_id": "medium_dlf_pt_react_logo_png_5247422_7cd91d6d29",
+    "resource_type": "image"
+    }
+    },
+    "thumbnail": {
+    "ext": ".png",
+    "url": "https://res.cloudinary.com/do3sejfqo/image/upload/v1664966293/thumbnail_dlf_pt_react_logo_png_5247422_7cd91d6d29.png",
+    "hash": "thumbnail_dlf_pt_react_logo_png_5247422_7cd91d6d29",
+    "mime": "image/png",
+    "name": "thumbnail_dlf.pt-react-logo-png-5247422.png",
+    "path": null,
+    "size": 20.12,
+    "width": 176,
+    "height": 156,
+    "provider_metadata": {
+    "public_id": "thumbnail_dlf_pt_react_logo_png_5247422_7cd91d6d29",
+    "resource_type": "image"
+    }
+    }
+    },
+    "hash": "dlf_pt_react_logo_png_5247422_7cd91d6d29",
+    "ext": ".png",
+    "mime": "image/png",
+    "size": 43.6,
+    "url": "https://res.cloudinary.com/do3sejfqo/image/upload/v1664966293/dlf_pt_react_logo_png_5247422_7cd91d6d29.png",
+    "previewUrl": null,
+    "provider": "cloudinary",
+    "provider_metadata": {
+    "public_id": "dlf_pt_react_logo_png_5247422_7cd91d6d29",
+    "resource_type": "image"
+    },
+    "createdAt": "2022-10-05T10:38:13.758Z",
+    "updatedAt": "2022-10-05T10:44:40.665Z"
+    }
+    }
+    },
+    "metadata": {
+    "id": 2,
+    "name": "home",
+    "section_id": "home",
+    "background": true
+    }
+    },
+    {
+    "id": 1,
+    "__component": "section.section-content",
+    "title": "Eventually",
+    "content": "But I know that I'll be happier\nAnd I know you will too\nSaid, I know that I'll be happier\nAnd I know you will too\nEventually, ah-ah, ah, ah-ah\nEventually, ah-ah, ah, ah-ah\nAnd I know just what I've got to do\nAnd it's got to be soon\n'Cause I know that I'll be happier\nAnd I know you will too",
+    "metadata": {
+    "id": 4,
+    "name": "section-content",
+    "section_id": "sectionContent",
+    "background": false
+    }
+    },
+    {
+    "id": 1,
+    "__component": "section.section-grid",
+    "title": "Grid",
+    "description": "Aplicando grid",
+    "text_grid": [
+    {
+    "id": 1,
+    "title": "Teste 1",
+    "description": "If only there could be another way to do this\n'Cause it feels like murder to put your heart through this\nI know I always said that I could never hurt you\nWell, this is the very, very last time I'm ever going to"
+    },
+    {
+    "id": 2,
+    "title": "teste 2",
+    "description": "But I know that I'll be happier\nAnd I know you will too\nSaid, I know that I'll be happier\nAnd I know you will too"
+    },
+    {
+    "id": 3,
+    "title": "teste 3",
+    "description": "Eventually, ah-ah, ah, ah-ah\nEventually, ah-ah, ah, ah-ah\nWish I could turn you back into a stranger\n'Cause if I was never in your life\nYou wouldn't have to change it"
+    }
+    ],
+    "image_grid": [],
+    "metadata": {
+    "id": 3,
+    "name": "grid-one",
+    "section_id": "Gridone",
+    "background": true
+    }
+    }
+    ]
+    }
+    }
+    ],
+    "meta": {
+    "pagination": {
+    "page": 1,
+    "pageSize": 25,
+    "pageCount": 1,
+    "total": 1
+    }
+    }
+    }
