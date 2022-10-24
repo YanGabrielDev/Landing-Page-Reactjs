@@ -2,13 +2,13 @@
 
 exports[`<GridText /> should render 1`] = `
 .c4 {
-  color: #FFFFFF;
+  color: #0A1128;
   font-size: 6.4rem;
   text-transform: uppercase;
 }
 
 .c9 {
-  color: #FFFFFF;
+  color: #0A1128;
   font-size: 3.2rem;
   text-transform: none;
 }

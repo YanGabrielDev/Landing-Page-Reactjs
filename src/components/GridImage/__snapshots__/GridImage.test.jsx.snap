@@ -2,7 +2,7 @@
 
 exports[`<GridImage /> should render 1`] = `
 .c3 {
-  color: #FFFFFF;
+  color: #0A1128;
   font-size: 6.4rem;
   text-transform: uppercase;
 }
