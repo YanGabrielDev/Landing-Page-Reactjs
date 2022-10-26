@@ -16,7 +16,7 @@ export const Container = styled.a`
       bottom: 0.9rem;
       width: 0;
       height: 0.3rem;
-      background: ${theme.colors.secondaryBg};
+      background: ${theme.colors.secondaryColor};
       transition: all 300ms ease-in-out;
     }
     &:hover::after {
